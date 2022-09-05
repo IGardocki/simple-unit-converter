@@ -1,3 +1,7 @@
+# Simple Unit Converter
+
+This is a project to create an easy, open-source unit converter to be integrated into React Projects. The intent is that users can just copy the files from this repo, and only have to alter the changeThis.jsx file to have a unit converter of their own to customize and integrate into projects! THIS APP IS STILL A WORK IN PROGRESS AND NOT YET FUNCTIONAL.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

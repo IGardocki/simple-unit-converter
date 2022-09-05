@@ -1,12 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import{UnitConverter} from './UnitConverter'
+import { UnitConverter } from './UnitConverter'
 
 function App() {
+  // the app solely renders the unit converter to test functionality
   return (
-    // <div>Hello World
-      <UnitConverter/>
-    // </div>
+    <UnitConverter />
   );
 }
 
