@@ -37,6 +37,14 @@ export const measurementsToConvert = [
     },
     {
         category: 'Mass',
-        conversionUnits: ['lbs', 'kg']
+        conversionUnits: 
+        {
+            unitA: 'lbs',
+            unitB: 'kgs',
+
+            // left these as empty string for now for testing
+            unitAToUnitBConversion: '',
+            unitBToUnitAConversion: '',
+        },
     }
 ]
